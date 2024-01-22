@@ -1,0 +1,90 @@
+.one{
+    text-emphasis: gray;
+    color: rgb(255, 132, 0);
+    background-color: aliceblue;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 400px;
+    padding-right: 40px;
+    border-width: 10px;
+    border-color: blueviolet;
+    border-style:dotted;
+}
+.two{
+    text-emphasis-color: blue;
+    color: blue;
+    background-color: aqua;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 400px;
+    padding-right: 40px;
+    border-width: 10px;
+    border-color: rgb(18, 25, 19);
+    border-style:dotted;
+}
+#oneid{
+    text-emphasis:yellow;
+    color: rgb(255, 0, 247);
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 400px;
+    padding-right: 40px;
+    border-width: 10px;
+    border-color: rgb(164, 159, 169);
+    border-style:dotted;
+}
+div{
+    background-color: red;
+    height: 400px;
+    width: 400px;
+    padding: 100px;
+    margin: 40px;
+    border-color: black;
+    border-width: 15px;
+    border-style: solid;
+    color: aqua;
+
+}
+#c2{
+   margin-top: 50px;
+}
+#top{
+    color: aqua;
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+}
+#para
+{
+    color: aqua;
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+    width: 1350px;
+    height: 350px;
+}
+#div1
+{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+#div2
+{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    display: inline-block;   
+}
+#hi
+{
+   background-color: yellow; 
+   display: inline;
+}
+#byee
+{
+    background-color: red;
+    display: inline;
+}
